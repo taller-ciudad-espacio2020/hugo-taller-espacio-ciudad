@@ -1,12 +1,12 @@
 ---
-title: 'Hugo Whisper'
-date: 2019-02-11T19:27:37+10:00
-weight: 6
+title: 'Ejemplo Post 1'
+date: 2020-06-17T19:30:08+10:00
+draft: false
+weight: 4
+summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
 Whisper is a minimal documentation theme built for Hugo. The design &amp; functionality is intentionally minimal.
-
-<!--more-->
 
 ## Quickstart
 

@@ -1,9 +1,9 @@
 ---
-title: 'Overview'
+title: 'José Manuel Gómez Rivera'
 date: 2018-11-28T15:14:39+10:00
 weight: 1
 ---
 
-## Whisper Theme
+## Documentación del Taller Ciudad y Espacio
 
-Whisper is a minimal documentation theme for Hugo. The design and functionality is intentionally minimal. We’re aiming for a similar feel to a Github readme.
+Este template será utilizado para generar la documentación de los trabajos realizados en el Taller Ciudad y Territorio del Magíster de Innovación y Diseño 2020.

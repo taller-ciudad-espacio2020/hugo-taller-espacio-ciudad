@@ -1,7 +1,9 @@
 ---
-title: 'Specimen'
-date: 2019-02-11T19:27:37+10:00
+title: 'Ejemplos Markdown'
+date: 2020-06-17T19:30:08+10:00
+draft: false
 weight: 5
+summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
 # <a name="top"></a>Markdown Test Page

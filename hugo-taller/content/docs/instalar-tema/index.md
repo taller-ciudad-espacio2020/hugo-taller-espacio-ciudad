@@ -1,8 +1,9 @@
 ---
-title: 'Install Theme'
-date: 2019-02-11T19:27:37+10:00
+title: 'Instalar Tema'
+date: 2020-06-17T19:30:08+10:00
 draft: false
-weight: 3
+weight: 2
+summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
 ## Create a new Hugo site

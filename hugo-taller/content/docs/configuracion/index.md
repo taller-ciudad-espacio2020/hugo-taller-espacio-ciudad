@@ -1,8 +1,8 @@
 ---
-title: 'Configuration'
-date: 2019-02-11T19:30:08+10:00
+title: 'Configuración'
+date: 2020-06-17T19:30:08+10:00
 draft: false
-weight: 4
+weight: 3
 summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
@@ -42,12 +42,12 @@ Configure the main menu by editing the `config.toml`
 
 ```toml
 [[menu.main]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Docs"
+name = "Documentación"
 url = "/docs/"
 weight = 2
 ```

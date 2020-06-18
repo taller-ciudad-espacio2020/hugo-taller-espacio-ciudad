@@ -1,6 +1,6 @@
 ---
-title: 'Hugo Whisper Docs'
+title: 'Taller Espacio y Ciudad'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal. 
+Sitio web personal de documentación del Taller de Ciudad y Espacio - Magíster Innovación y Diseño UAI 2020. 
