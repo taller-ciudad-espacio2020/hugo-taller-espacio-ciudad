@@ -79,25 +79,12 @@ summary: Uso de los Shortcodes para agregar contenido en el sitio de documentaci
 
 ### Agregar Galería Fotos Lightbox
 
-{{< video-local src="video.mp4" >}}
+{{< gallery dir="/img/galeria/" />}} {{< load-photoswipe >}}
 
 ##### Código `Galería Fotos Lightbox` Markdown 
 
 ```
-{{</* video-local src="video.mp4" */>}}
-```
-
-##### Código `Galería Fotos Lightbox` HTML Shortcode 
-
-```
-<div>
-    <video 
-    width="100%" 
-    height="450" 
-    autoplay muted loop controls preload>
-    <source src="/{{ index .Params "src" }}"  type="video/mp4">
-    </video>
-</div>
+{{</* gallery dir="/img/galeria/" />}} {{< load-photoswipe */>}}
 ```
 
 [[Volver Arriba]](#contenido-shortcodes)
@@ -107,25 +94,26 @@ summary: Uso de los Shortcodes para agregar contenido en el sitio de documentaci
 
 ### Agregar Botón de Descarga
 
-{{< video-local src="video.mp4" >}}
+{{< boton-descargar src="documento.pdf" >}}
 
 ##### Código `Botón de Descarga` Markdown 
 
 ```
-{{</* video-local src="video.mp4" */>}}
+{{</* boton-descargar src="documento.pdf" */>}}
 ```
 
 ##### Código `Botón de Descarga` HTML Shortcode 
 
 ```
-<div>
-    <video 
-    width="100%" 
-    height="450" 
-    autoplay muted loop controls preload>
-    <source src="/{{ index .Params "src" }}"  type="video/mp4">
-    </video>
-</div>
+<a class="face-button" href="/descargas/{{ index .Params "src" }}" download>
+    <div class="face-primary">
+        <span class="icon fa fa-cloud"></span>
+        Descargar
+    </div>
+    <div class="face-secondary">
+        <span class="icon fa fa-hdd-o"></span>
+    </div>
+</a>
 ```
 
 [[Volver Arriba]](#contenido-shortcodes)
