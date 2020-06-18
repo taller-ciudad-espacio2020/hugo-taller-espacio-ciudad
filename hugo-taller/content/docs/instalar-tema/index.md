@@ -6,6 +6,8 @@ weight: 2
 summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
+<!-- Contenido del Post -->
+
 ## Create a new Hugo site
 
 ```

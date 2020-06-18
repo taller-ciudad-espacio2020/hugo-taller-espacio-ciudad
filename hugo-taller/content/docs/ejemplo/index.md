@@ -6,6 +6,8 @@ weight: 4
 summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
+<!-- Contenido del Post -->
+
 Whisper is a minimal documentation theme built for Hugo. The design &amp; functionality is intentionally minimal.
 
 ## Quickstart

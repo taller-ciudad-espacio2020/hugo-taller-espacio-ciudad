@@ -6,6 +6,8 @@ weight: 3
 summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
+<!-- Contenido del Post -->
+
 ## Syntax Highlighting
 
 Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/

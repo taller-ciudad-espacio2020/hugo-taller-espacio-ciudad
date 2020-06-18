@@ -6,6 +6,8 @@ weight: 5
 summary: Syntax highlighting and menus can be configured via `config.toml`.
 ---
 
+<!-- Contenido del Post -->
+
 # <a name="top"></a>Markdown Test Page
 
 - [Headings](#Headings)
