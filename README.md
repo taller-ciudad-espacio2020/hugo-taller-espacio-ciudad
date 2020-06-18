@@ -1,8 +1,14 @@
 # Tema Hugo - Taller Ciudad Espacio
 
-Este tema se construyó para documentar los trabajos y encargos de los alumnos del Taller de Espacio y Ciudad. Está creado en base al Framework Hugo. El diseño y la funcionalidad son intencionalmente mínimos.
+Este tema se construyó para documentar los trabajos y encargos de los alumnos del Taller de Espacio y Ciudad. Está creado en base al Framework Hugo basado en el tema Whisper de Zerostatic Themes. El diseño y la funcionalidad son intencionalmente mínimos.
 
 ![Screenshot del Tema](/ss-tema-taller.png)
+
+Tema basado en theme oficial Hugo Whisper. Copyright (c) Robert Austin - rob@jugglerdigital.com - github.com/JugglerX
+
+[Live Demo](https://hugo-whisper.netlify.com/) |
+[Zerostatic Themes](https://www.zerostatic.io/theme/hugo-whisper/) 
+
 
 ## Características del tema
 
@@ -62,3 +68,9 @@ Esto informará cuál es la versión actual instalada de Hugo. Asegúrese de ver
 ### Crear un nuevo sitio de Hugo
 
 Descargar esta carpeta de GitHub en formato ZIP y descomprimirla en `D:/Users/`
+
+## Licencia
+
+The MIT License (MIT)
+
+Copyright (c) Robert Austin - rob@jugglerdigital.com - github.com/JugglerX
