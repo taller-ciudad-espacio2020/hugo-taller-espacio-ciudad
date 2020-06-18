@@ -3,25 +3,25 @@ title: 'Ejemplos Markdown'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 5
-summary: Syntax highlighting and menus can be configured via `config.toml`.
+summary: Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.
 ---
 
-<!-- Contenido del Post -->
+<!-- Ejemplos de códigos Markdown -->
 
-# <a name="top"></a>Markdown Test Page
+# <a name="top"></a>Ejemplos de códigos Markdown
 
-- [Headings](#Headings)
-- [Paragraphs](#Paragraphs)
-- [Blockquotes](#Blockquotes)
-- [Lists](#Lists)
-- [Horizontal rule](#Horizontal)
-- [Table](#Table)
-- [Code](#Code)
-- [Inline elements](#Inline)
+- [Headings](#headings)
+- [Párrafos](#párrafos)
+- [Citado](#citado)
+- [Listas](#listas)
+- [Línea Horizontal](#línea-horizontal)
+- [Tabla](#tabla)
+- [Código](#código)
+- [Elementos e Imágenes](#elementos-e-imágenes-en-línea)
 
 ---
 
-# <a name="Headings"></a>Headings
+# Headings
 
 # Heading one
 
@@ -47,9 +47,9 @@ Veniam enim esse amet veniam deserunt laboris amet enim consequat. Minim nostrud
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-[[Top]](#top)
+[[Volver Arriba]](#top)
 
-# <a name="Paragraphs"></a>Paragraphs
+# Párrafos
 
 Incididunt ex adipisicing ea ullamco consectetur in voluptate proident fugiat tempor deserunt reprehenderit ullamco id dolore laborum. Do laboris laboris minim incididunt qui consectetur exercitation adipisicing dolore et magna consequat magna anim sunt. Officia fugiat Lorem sunt pariatur incididunt Lorem reprehenderit proident irure. Dolore ipsum aliqua mollit ad officia fugiat sit eu aliquip cupidatat ipsum duis laborum laborum fugiat esse. Voluptate anim ex dolore deserunt ea ex eiusmod irure. Occaecat excepteur aliqua exercitation aliquip dolor esse eu eu.
 
@@ -57,9 +57,9 @@ Officia dolore laborum aute incididunt commodo nisi velit est est elit et dolore
 
 Officia irure in non voluptate adipisicing sit amet tempor duis dolore deserunt enim ut. Reprehenderit incididunt in ad anim et deserunt deserunt Lorem laborum quis. Enim aute anim labore proident laboris voluptate elit excepteur in. Ex labore nulla velit officia ullamco Lorem Lorem id do. Dolore ullamco ipsum magna dolor pariatur voluptate ipsum id occaecat ipsum. Dolore tempor quis duis commodo quis quis enim.
 
-[[Top]](#top)
+[[Volver Arriba]](#top)
 
-# <a name="Blockquotes"></a>Blockquotes
+# Citado
 
 Ad nisi laborum aute cupidatat magna deserunt eu id laboris id. Aliquip nulla cupidatat sint ex Lorem mollit laborum dolor amet est ut esse aute. Nostrud ex consequat id incididunt proident ipsum minim duis aliqua ut ex et ad quis. Laborum sint esse cillum anim nulla cillum consectetur aliqua sit. Nisi excepteur cillum labore amet excepteur commodo enim occaecat consequat ipsum proident exercitation duis id in.
 
@@ -75,11 +75,11 @@ Ipsum excepteur cupidatat sunt minim ad eiusmod tempor sit.
 
 Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat veniam ullamco occaecat do ut. Tempor et esse reprehenderit veniam proident ipsum irure sit ullamco et labore ea excepteur nulla labore ut. Ex aute minim quis tempor in eu id id irure ea nostrud dolor esse.
 
-[[Top]](#top)
+[[Volver Arriba]](#top)
 
-# <a name="Lists"></a>Lists
+# Listas
 
-### Ordered List
+### Lista Enumerada
 
 1. Longan
 2. Lychee
@@ -93,7 +93,7 @@ Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat v
 6. Miracle fruit
 7. Mulberry
 
-### Unordered List
+### Lista con Guiones
 
 - Olive
 - Orange
@@ -103,9 +103,9 @@ Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat v
 - Ut aute ipsum occaecat nisi culpa Lorem id occaecat cupidatat id id magna laboris ad duis. Fugiat cillum dolore veniam nostrud proident sint consectetur eiusmod irure adipisicing.
 - Passionfruit
 
-[[Top]](#top)
+[[Volver Arriba]](#top)
 
-# <a name="Horizontal"></a>Horizontal rule
+# Línea Horizontal
 
 In dolore velit aliquip labore mollit minim tempor veniam eu veniam ad in sint aliquip mollit mollit. Ex occaecat non deserunt elit laborum sunt tempor sint consequat culpa culpa qui sit. Irure ad commodo eu voluptate mollit cillum cupidatat veniam proident amet minim reprehenderit.
 
@@ -113,13 +113,13 @@ In dolore velit aliquip labore mollit minim tempor veniam eu veniam ad in sint a
 
 In laboris eiusmod reprehenderit aliquip sit proident occaecat. Non sit labore anim elit veniam Lorem minim commodo eiusmod irure do minim nisi. Dolor amet cillum excepteur consequat sint non sint.
 
-[[Top]](#top)
+[[Volver Arriba]](#top)
 
-# <a name="Table"></a>Table
+# Tabla
 
 Duis sunt ut pariatur reprehenderit mollit mollit magna dolore in pariatur nulla commodo sit dolor ad fugiat. Laboris amet ea occaecat duis eu enim exercitation deserunt ea laborum occaecat reprehenderit. Et incididunt dolor commodo consequat mollit nisi proident non pariatur in et incididunt id. Eu ut et Lorem ea ex magna minim ipsum ipsum do.
 
-| Table Heading 1 | Table Heading 2 | Center align | Right align | Table Heading 5 |
+| Tabla Heading 1 | Tabla Heading 2 | Center align | Right align | Tabla Heading 5 |
 | :-------------- | :-------------- | :----------: | ----------: | :-------------- |
 | Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
 | Item 1          | Item 2          |    Item 3    |      Item 4 | Item 5          |
@@ -129,52 +129,27 @@ Duis sunt ut pariatur reprehenderit mollit mollit magna dolore in pariatur nulla
 
 Minim id consequat adipisicing cupidatat laborum culpa veniam non consectetur et duis pariatur reprehenderit eu ex consectetur. Sunt nisi qui eiusmod ut cillum laborum Lorem officia aliquip laboris ullamco nostrud laboris non irure laboris. Cillum dolore labore Lorem deserunt mollit voluptate esse incididunt ex dolor.
 
-[[Top]](#top)
+[[Volver Arriba]](#top)
 
-# <a name="Code"></a>Code
+# Código
 
-## Inline code
+## Código en línea
 
-Ad amet irure est magna id mollit Lorem in do duis enim. Excepteur velit nisi magna ea pariatur pariatur ullamco fugiat deserunt sint non sint. Duis duis est `code in text` velit velit aute culpa ex quis pariatur pariatur laborum aute pariatur duis tempor sunt ad. Irure magna voluptate dolore consectetur consectetur irure esse. Anim magna `<strong>in culpa qui officia</strong>` dolor eiusmod esse amet aute cupidatat aliqua do id voluptate cupidatat reprehenderit amet labore deserunt.
+Ad amet irure est magna id mollit Lorem in do duis enim. Excepteur velit nisi magna ea pariatur pariatur ullamco fugiat deserunt sint non sint. Duis duis est `Código in text` velit velit aute culpa ex quis pariatur pariatur laborum aute pariatur duis tempor sunt ad. Irure magna voluptate dolore consectetur consectetur irure esse. Anim magna `<strong>in culpa qui officia</strong>` dolor eiusmod esse amet aute cupidatat aliqua do id voluptate cupidatat reprehenderit amet labore deserunt.
 
 ## Highlighted
 
 Et fugiat ad nisi amet magna labore do cillum fugiat occaecat cillum Lorem proident. In sint dolor ullamco ad do adipisicing amet id excepteur Lorem aliquip sit irure veniam laborum duis cillum. Aliqua occaecat minim cillum deserunt magna sunt laboris do do irure ea nostrud consequat ut voluptate ex.
 
-```go
-package main
-
-import (
-    "fmt"
-    "net/http"
-)
-
-func handler(w http.ResponseWriter, r *http.Request) {
-    fmt.Fprintf(w, "Hi there, I love %s!", r.URL.Path[1:])
-}
-
-func main() {
-    http.HandleFunc("/", handler)
-    http.ListenAndServe(":8080", nil)
-}
+```
+Código o detalle en línea
 ```
 
 Ex amet id ex aliquip id do laborum excepteur exercitation elit sint commodo occaecat nostrud est. Nostrud pariatur esse veniam laborum non sint magna sit laboris minim in id. Aliqua pariatur pariatur excepteur adipisicing irure culpa consequat commodo et ex id ad.
 
-```js
-function myFunction() {
-  var x = document.getElementById('myDIV');
-  if (x.style.display === 'none') {
-    x.style.display = 'block';
-  } else {
-    x.style.display = 'none';
-  }
-}
-```
+[[Volver Arriba]](#top)
 
-[[Top]](#top)
-
-# <a name="Inline"></a>Inline elements
+# Elementos e Imágenes en línea
 
 Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim ad labore sunt. Minim deserunt labore laboris velit nulla incididunt ipsum nulla. Ullamco ad laborum ea qui et anim in laboris exercitation tempor sit officia laborum reprehenderit culpa velit quis. **Consequat commodo** reprehenderit duis [irure](#!) esse esse exercitation minim enim Lorem dolore duis irure. Nisi Lorem reprehenderit ea amet excepteur dolor excepteur magna labore proident voluptate ipsum. Reprehenderit ex esse deserunt aliqua ea officia mollit Lorem nulla magna enim. Et ad ipsum labore enim ipsum **cupidatat consequat**. Commodo non ea cupidatat magna deserunt dolore ipsum velit nulla elit veniam nulla eiusmod proident officia.
 
@@ -186,6 +161,6 @@ _Proident sit veniam in est proident officia adipisicing_ ea tempor cillum non c
 
 Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip incididunt voluptate magna amet cupidatat cillum pariatur sint aliqua est _enim **anim** voluptate_. Magna aliquip proident incididunt id duis pariatur eiusmod incididunt commodo culpa dolore sit. Culpa do nostrud elit ad exercitation anim pariatur non minim nisi **adipisicing sunt _officia_**. Do deserunt magna mollit Lorem commodo ipsum do cupidatat mollit enim ut elit veniam ea voluptate.
 
-[![Box](https://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](https://www.youtube.com/watch?v=qEuD6v1Y9fg)
+[![Box](https://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](https://www.youtube.com/watch?v=9sttGOpz7VY)
 
 Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.

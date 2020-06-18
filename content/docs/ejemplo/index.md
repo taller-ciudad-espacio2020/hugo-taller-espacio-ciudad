@@ -1,37 +1,132 @@
 ---
-title: 'Ejemplo Post 1'
+title: 'Ejemplo Shortcodes'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 4
-summary: Syntax highlighting and menus can be configured via `config.toml`.
+summary: Uso de los Shortcodes para agregar contenido en el sitio de documentación.
 ---
 
-<!-- Contenido del Post -->
+<!-- Ejemplo Shortcodes -->
 
-Whisper is a minimal documentation theme built for Hugo. The design &amp; functionality is intentionally minimal.
+# Contenido Shortcodes
 
-## Quickstart
+- [Iframe de Fusion 360](#agregar-iframe-de-fusion-360)
+- [Agregar Video Local MP4](#agregar-video-local-mp4)
+- [Galería Fotos Lightbox](#agregar-galería-fotos-lightbox)
+- [Botón de Descarga](#agregar-botón-de-descarga)
 
-Copy or git clone this theme into the sites themes folder `mynewsite/themes`
+<!-- Agregar Iframe de Fusion 360 -->
+---
+
+### Agregar Iframe de Fusion 360
+
+{{< iframe-fusion >}}
+
+##### Código `Iframe de Fusion 360` Markdown 
 
 ```
-hugo new site whisper
-git clone https://github.com/jugglerx/hugo-whisper-theme.git
+{{</* iframe-fusion */>}}
 ```
 
-### Code Highlighting
+##### Código `Iframe de Fusion 360` HTML Shortcode 
 
-Whisper uses Hugo's in-built code highlighting with a github style code highlighting theme. https://gohugo.io/content-management/syntax-highlighting/
-
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
-
-```js
-function myFunction() {
-  var x = document.getElementById('myDIV');
-  if (x.style.display === 'none') {
-    x.style.display = 'block';
-  } else {
-    x.style.display = 'none';
-  }
-}
 ```
+<div>
+    <iframe 
+    src="https://myhub.autodesk360.com/ue2ce4e3a/shares/public/SH56a43QTfd62c1cd968edbffd1ceafd2764?mode=embed" 
+    width="100%" 
+    height="450" 
+    allowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    mozallowfullscreen="true"  
+    frameborder="0">
+    </iframe>    
+</div>
+```
+
+[[Volver Arriba]](#contenido-shortcodes)
+
+<!-- Agregar Video Local MP4 -->
+---
+
+### Agregar Video Local MP4
+
+{{< video-local src="video.mp4" >}}
+
+##### Código `Video Local MP4` Markdown 
+
+```
+{{</* video-local src="video.mp4" */>}}
+```
+
+##### Código `Video Local MP4` HTML Shortcode 
+
+```
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/{{ index .Params "src" }}"  type="video/mp4">
+    </video>
+</div>
+```
+
+[[Volver Arriba]](#contenido-shortcodes)
+ 
+<!-- Agregar Galería Fotos Lightbox -->
+---
+
+### Agregar Galería Fotos Lightbox
+
+{{< video-local src="video.mp4" >}}
+
+##### Código `Galería Fotos Lightbox` Markdown 
+
+```
+{{</* video-local src="video.mp4" */>}}
+```
+
+##### Código `Galería Fotos Lightbox` HTML Shortcode 
+
+```
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/{{ index .Params "src" }}"  type="video/mp4">
+    </video>
+</div>
+```
+
+[[Volver Arriba]](#contenido-shortcodes)
+
+<!-- Agregar Botón de Descarga -->
+---
+
+### Agregar Botón de Descarga
+
+{{< video-local src="video.mp4" >}}
+
+##### Código `Botón de Descarga` Markdown 
+
+```
+{{</* video-local src="video.mp4" */>}}
+```
+
+##### Código `Botón de Descarga` HTML Shortcode 
+
+```
+<div>
+    <video 
+    width="100%" 
+    height="450" 
+    autoplay muted loop controls preload>
+    <source src="/{{ index .Params "src" }}"  type="video/mp4">
+    </video>
+</div>
+```
+
+[[Volver Arriba]](#contenido-shortcodes)
+ 

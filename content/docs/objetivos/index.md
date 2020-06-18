@@ -17,4 +17,3 @@ Objetivos general y específico del Taller del segundo trimestre de 2020.
 1. Identificar oportunidades de innovación a partir de la observación de un territorio, ciudad y/o sistema productivo.
 2. Experimentar con técnicas de diseño y fabricación, de forma dirigida a la realización de una propuesta concreta.
 3. Inserción de una propuesta de diseño como valor agregado a un territorio habitado y a un sistema productivo.
-

@@ -3,34 +3,34 @@ title: 'Configuración'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 3
-summary: Syntax highlighting and menus can be configured via `config.toml`.
+summary: Tutorial de configuración básica del menú y otros elementos del tema.
 ---
 
 <!-- Contenido del Post -->
 
-## Syntax Highlighting
+## Highlighting de Código
 
-Whisper uses the in-built code highlighting that ships with hugo. https://gohugo.io/content-management/syntax-highlighting/
+Este tema utiliza el resaltado de código incorporado que se incluye con Hugo. https://gohugo.io/content-management/syntax-highlighting/
 
-You can insert code snippets in any markdown file by using standard code fences syntax ie:
+Puede insertar fragmentos de código en cualquier Markdown utilizando la sintaxis de highlighting, es decir:
 
 ````
 ```
-insert code here
+insertar código acá
 ```
 ````
 
-You can specify the langauge by adding a declaration after the backticks
+Puede especificar el lenguaje de programación agregando una declaración después de los backticks
 
 ````
-```javascript
-insert code here
+```html
+insertar código acá
 ```
 ````
 
-### Pygments Options
+### Opciones de resaltado de código 
 
-The following code highlighting options are configured in the `config.toml`
+Las opciones de resaltado de código se configuran en `config.toml`
 
 ```toml
 pygmentsCodeFences = true
@@ -38,18 +38,18 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 ```
 
-## Main menu
+## Menú principal
 
-Configure the main menu by editing the `config.toml`
+Configure el menú principal editando el `config.toml`
 
 ```toml
 [[menu.main]]
-name = "Inicio"
-url = "/"
-weight = 1
+    name = "Inicio"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
-name = "Documentación"
-url = "/docs/"
-weight = 2
+    name = "Documentación"
+    url = "/docs/"
+    weight = 2
 ```

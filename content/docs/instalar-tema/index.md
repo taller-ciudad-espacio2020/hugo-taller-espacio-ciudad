@@ -3,67 +3,35 @@ title: 'Instalar Tema'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 2
-summary: Syntax highlighting and menus can be configured via `config.toml`.
+summary: Tutorial de intalación del tema utilizando el Framework Hugo.
 ---
 
 <!-- Contenido del Post -->
 
-## Create a new Hugo site
+## Crear un nuevo sitio Hugo
 
 ```
-hugo new site mynewsite
+hugo new site misitio
 ```
 
-This will create a fresh Hugo site in the folder `mynewsite`.
+Esto creará un nuevo sitio de Hugo en la carpeta `misitio`.
 
-## Install theme
+## Instalar sitio Hugo
 
-Copy or git clone this theme into the sites themes folder `mynewsite/themes`
+Copie o clone con git el sitio en la carpeta carpeta `misitio`.
 
-#### Install with Git
+## Ejecutar Hugo
 
-```
-cd mynewsite
-cd themes
-git clone https://github.com/jugglerx/hugo-whisper-theme.git
-```
-
-#### Install from .zip file
-
-You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
-
-Extract the downloaded .zip inside the `themes` folder. Rename the extracted folder from `hugo-whisper-theme-master` -> `hugo-whisper-theme`. You should end up with the following folder structure `mynewsite/themes/hugo-whisper-theme`
-
-## Add example content
-
-The fastest way to get started is to copy the example content and modify the included `config.toml`
-
-### Copy exampleSite contents
-
-Copy the entire contents of the `exampleSite` folder to the root folder of your Hugo site _(the folder with the README.md)_.
-
-### Update config.toml
-
-After you copy the `config.toml` into the root folder of your Hugo site you will need to update the `baseURL`, `themesDir` and `theme` values in the `config.toml`
+Para el desarrollo de manera local, ejecute el servidor incorporado con Hugo utilizando la terminal de comandos.
 
 ```
-baseURL = "/"
-themesDir = "themes"
-theme = "hugo-whisper-theme"
+hugo server
 ```
+Ahora ingresa a [`localhost:1313`](http://localhost:1313) en la barra de URL de su navegador.
 
-## Run Hugo
-
-After installing the theme for the first time, generate the Hugo site.
+Después de editar el contenido y generar el sitio web, obtenga el compilado de archivos web a través del siguiente comando en la terminal. Este comando generará una carpeta `public` al interior de la carpeta del sitio web.
 
 ```
 hugo
 ```
 
-For local development run Hugo's built-in local server.
-
-```
-hugo server
-```
-
-Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your browser.
