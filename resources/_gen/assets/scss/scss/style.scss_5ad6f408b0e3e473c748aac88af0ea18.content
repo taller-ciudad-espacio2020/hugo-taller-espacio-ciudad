@@ -126,7 +126,7 @@ pre {
   overflow: auto; }
 
 figure {
-  margin: 0 0 1rem; }
+  margin: 0 0 0; }
 
 img {
   vertical-align: middle;
@@ -7862,8 +7862,8 @@ figcaption p {
     line-height: 40px;
     transition: margin .4s; }
   .face-button .face-primary {
-    background-color: #2A2A2A;
-    color: #fff; }
+    background-color: #fff;
+    color: #2A2A2A; }
   .face-button:hover .face-primary {
     margin-top: -40px; }
 

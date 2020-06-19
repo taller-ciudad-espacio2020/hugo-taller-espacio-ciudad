@@ -106,8 +106,8 @@ figcaption p {
   }
   
   .face-primary {
-    background-color: $accentColor;
-    color: #fff;
+    background-color: #fff;
+    color: $accentColor;
   }
   
   &:hover .face-primary {

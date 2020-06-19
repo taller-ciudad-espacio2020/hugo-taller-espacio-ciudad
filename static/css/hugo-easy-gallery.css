@@ -10,8 +10,8 @@ Grid Layout Styles
 
 .gallery {
     overflow: hidden;
-    margin: 10px;
-    max-width: 768px;
+    margin: 0px;
+    max-width: 100%;
 }
 .gallery .box {
     float: left;
@@ -63,17 +63,12 @@ figure {
 }
 .gallery figure {
     position: absolute;
-    left: 5px;
+    left: 0px;
     right: 5px;
-    top: 5px;
-    bottom: 5px;
+    top: 0px;
+    bottom: 0px;
 }
-.gallery.hover-effect-grow figure:hover {
-    transform: scale(1.05);
-}
-.gallery.hover-effect-shrink figure:hover {
-    transform: scale(0.95);
-}
+
 .gallery.hover-effect-slidedown figure:hover {
     transform: translateY(5px);
 }
@@ -94,9 +89,6 @@ img / a styles
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
-}
-.gallery.hover-effect-zoom figure:hover .img {
-    transform: scale(1.05);
 }
 .gallery img {
     display: none; /* only show the img if not inside a gallery */
