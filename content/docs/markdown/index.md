@@ -1,6 +1,6 @@
 ---
 title: 'Ejemplos Markdown'
-date: 2020-06-17T19:30:08+10:00
+date: 2021-05-17T19:30:08+10:00
 draft: false
 weight: 5
 summary: Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.
@@ -158,7 +158,5 @@ Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim 
 _Proident sit veniam in est proident officia adipisicing_ ea tempor cillum non cillum velit deserunt. Voluptate laborum incididunt sit consectetur Lorem irure incididunt voluptate nostrud. Commodo ut eiusmod tempor cupidatat esse enim minim ex anim consequat. Mollit sint culpa qui laboris quis consectetur ad sint esse. Amet anim anim minim ullamco et duis non irure. Sit tempor adipisicing ea laboris `culpa ex duis sint` anim aute reprehenderit id eu ea. Aute [excepteur proident](#!) Lorem minim adipisicing nostrud mollit ad ut voluptate do nulla esse occaecat aliqua sint anim.
 
 Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip incididunt voluptate magna amet cupidatat cillum pariatur sint aliqua est _enim **anim** voluptate_. Magna aliquip proident incididunt id duis pariatur eiusmod incididunt commodo culpa dolore sit. Culpa do nostrud elit ad exercitation anim pariatur non minim nisi **adipisicing sunt _officia_**. Do deserunt magna mollit Lorem commodo ipsum do cupidatat mollit enim ut elit veniam ea voluptate.
-
-[![Imagen Box](https://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](https://www.youtube.com/watch?v=9sttGOpz7VY)
 
 Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.

@@ -2,7 +2,7 @@
 
 Este tema se construyó para documentar los trabajos y encargos de los alumnos del Taller de Espacio y Ciudad. Está creado en base al Framework Hugo basado en el tema Whisper de Zerostatic Themes. El diseño y la funcionalidad son intencionalmente mínimos.
 
-[Demo Sitio Taller Ciudad Espacio](https://taller-ciudad-espacio2020.github.io/tema/)
+[Demo Sitio Taller Ciudad Espacio](https://taller-ciudad-espacio2021.github.io/)
 
 <p align="center">
   <img  src="/ss-tema-taller.png">
