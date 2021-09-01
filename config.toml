@@ -1,6 +1,6 @@
-baseURL = "INGRESAR-URL-PROPIA-DE-GITHUB"
+baseURL = "https://taller-ciudad-espacio2021.github.io/"
 languageCode = "en-us"
-title = "Nombre Alumno"
+title = "Taller Espacio y Ciudad 2021"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -23,7 +23,7 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
-  homepage_button_text = 'Ver documentación'
+  homepage_button_text = 'Ir al sitio del curso'
   homepage_intro = 'Sitio web personal de documentación del Taller de Espacio y Ciudad - Magíster Innovación y Diseño UAI 2021.'
   homepage_image = '/images/taller-ciudad-espacio.jpg'
 
