@@ -70,7 +70,7 @@ Link de acceso a publicación en sitio web:\
 #### Juego Señas
 
 Link de acceso a publicación en sitio web:\
-[Grupo 3 - Examen Final]()
+[Grupo 3 - Examen Final](https://ameliadominguez.github.io/taller-ciudad-espacio/docs/post-7/)
 
 #### Integrantes del grupo
 
@@ -119,7 +119,7 @@ Link de acceso a publicación en sitio web:\
 #### Coligue/Cerezos
 
 Link de acceso a publicación en sitio web:\
-[Grupo 6 - Examen Final]()
+[Grupo 6 - Examen Final](https://maxvivanco.github.io/taller-ciudad-espacio/docs/examen.cerezos/)
 
 #### Integrantes del grupo
 
@@ -136,7 +136,7 @@ Link de acceso a publicación en sitio web:\
 #### Insectos
 
 Link de acceso a publicación en sitio web:\
-[Grupo 7 - Examen Final]()
+[Grupo 7 - Examen Final](https://victo-rmrz.github.io/taller-ciudad-espacio/docs/e08/)
 
 #### Integrantes del grupo
 
