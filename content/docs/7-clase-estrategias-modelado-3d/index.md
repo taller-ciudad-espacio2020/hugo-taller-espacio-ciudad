@@ -3,7 +3,7 @@ title: '7 - Clase - Estrategias Modelado 3D'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 7
-summary: 
+summary: Clase grabada sobre estrategias de modelado 3D
 ---
 
 # Clase - Sesión 8

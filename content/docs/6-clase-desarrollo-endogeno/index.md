@@ -3,7 +3,7 @@ title: '6 - Clase - Desarrollo Endógeno'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 6
-summary: 
+summary: Clase referente a desarrollo endógeno.
 ---
 
 # Clase - Sesión 8

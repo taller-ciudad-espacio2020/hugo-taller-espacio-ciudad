@@ -3,7 +3,7 @@ title: '10 - Tutoriales - Animación Keyshot'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 10
-summary: 
+summary: Tutoriales en Keyshot para animación de terreno 3D.
 ---
 
 ## Workshop de Introducción a Keyshot y Animación de cámara

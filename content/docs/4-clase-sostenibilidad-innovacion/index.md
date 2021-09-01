@@ -3,7 +3,7 @@ title: '4 - Clase - Sostenibilidad e Innovación'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 4
-summary: 
+summary: Clase grabada de sostenibilidad e innovación.
 ---
 
 # Clase - Sesión 6

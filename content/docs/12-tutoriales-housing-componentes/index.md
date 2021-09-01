@@ -3,7 +3,7 @@ title: '12 - Tutoriales - Housing Componentes'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 12
-summary: 
+summary: Tutoriales en Fusion 360 para hacer carcazas de componentes electrónicos
 ---
 
 ## Tutorial - Housing Fusion 360

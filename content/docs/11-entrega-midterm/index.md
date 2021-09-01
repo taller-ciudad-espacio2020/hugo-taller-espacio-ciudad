@@ -3,7 +3,7 @@ title: '11 - ENTREGA - MIDTERM'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 11
-summary: 
+summary: Recopilación de entrega intermedia por parte de los alumnos del taller.
 ---
 
 ## Encargo MIDTERM Taller Espacio y Ciudad

@@ -24,7 +24,7 @@ summaryLength = 30
   google_analytics_id=""
   homepage_button_link = '/docs'
   homepage_button_text = 'Ir al sitio del curso'
-  homepage_intro = 'Sitio web personal de documentación del Taller de Espacio y Ciudad - Magíster Innovación y Diseño UAI 2021.'
+  homepage_intro = 'Sitio web de documentación del Taller de Espacio y Ciudad - Magíster Innovación y Diseño UAI 2021.'
   homepage_image = '/images/taller-ciudad-espacio.jpg'
 
 [params.homepage_meta_tags]

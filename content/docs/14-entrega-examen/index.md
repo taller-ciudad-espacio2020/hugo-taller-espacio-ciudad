@@ -3,7 +3,7 @@ title: '14 - ENTREGA - EXAMEN'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 14
-summary: 
+summary: Recopilación de entregas alumnos. Examen del taller.
 ---
 
 ## Encargo EXAMEN Taller Espacio y Ciudad
